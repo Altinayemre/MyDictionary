@@ -16,7 +16,7 @@ namespace MyDictionary
 
             Citys.List();
             Console.WriteLine();
-            Console.WriteLine("Toplam Şehir Sayısı: "+Citys.Count); 
+            Console.WriteLine("Toplam sehir sayısı: "+Citys.Count); 
             
             Console.ReadLine();
         }
