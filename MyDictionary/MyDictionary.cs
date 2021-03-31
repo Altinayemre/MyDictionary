@@ -44,7 +44,7 @@ namespace MyDictionary
         {
             for (int i = 0; i < keys.Length; i++)
             {
-                Console.WriteLine("Plaka No: "+keys[i]+" -- "+"Şehir: "+values[i]);
+                Console.WriteLine("Plaka No: "+keys[i]+" -- "+"Sehir: "+values[i]);
             }
         }
 
